@@ -1,2 +1,3 @@
-# load-distribution-physics-simulator
+# Load Distribution Physics Simulator
+
 Simulator of load distribution physics of abstract sceleton constructions
